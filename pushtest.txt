@@ -1,4 +1,4 @@
 test,git
 
 
-GUIからの変更テスト
+GUIからの変更
